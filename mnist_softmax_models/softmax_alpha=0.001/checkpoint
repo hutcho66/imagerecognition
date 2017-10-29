@@ -1,0 +1,2 @@
+model_checkpoint_path: "..\mnist_softmax_models\\softmax_alpha=0.001\\model-999999"
+all_model_checkpoint_paths: "..\mnist_softmax_models\\softmax_alpha=0.001\\model-999999"

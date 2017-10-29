@@ -128,7 +128,7 @@ if __name__ == "__main__":
 
         # Generate directory structure
         model_dir = "../mnist_softmax_models"
-        model_dir = os.path.join(os.path.abspath(model_dir), 'softmax_alpha=%s_wd=%s_longer' % (learning_rate, weight_decay))
+        model_dir = os.path.join(os.path.abspath(model_dir), 'softmax_alpha=%s_wd=%s' % (learning_rate, weight_decay))
         log_dir = os.path.join(model_dir, 'log')
 
         # Run training loop

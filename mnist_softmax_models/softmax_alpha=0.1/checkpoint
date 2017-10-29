@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\hutch\\digitrecognition\\mnist_softmax_models\\softmax_alpha=0.1\\model-999999"
+all_model_checkpoint_paths: "D:\\hutch\\digitrecognition\\mnist_softmax_models\\softmax_alpha=0.1\\model-999999"

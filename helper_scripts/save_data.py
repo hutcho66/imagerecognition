@@ -5,7 +5,7 @@
 from helper_scripts.mnist_read_log import get_scalar
 import csv
 
-file = r"""../mnist_conv_models/conv_nlayers=2_nfeatures=32-64/log/validation"""
+file = r"""../mnist_conv_models/conv_nlayers=2_nfeatures=32/log/validation"""
 
 data = get_scalar(file, ['accuracy_1', 'cross_entropy_1'])
 
