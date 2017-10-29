@@ -1,0 +1,2 @@
+model_checkpoint_path: "../mnist_conv_models\\conv_lenet5_morereg\\model"
+all_model_checkpoint_paths: "../mnist_conv_models\\conv_lenet5_morereg\\model"

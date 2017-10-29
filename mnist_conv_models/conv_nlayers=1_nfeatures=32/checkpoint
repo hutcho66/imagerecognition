@@ -1,0 +1,2 @@
+model_checkpoint_path: "../mnist_conv_models\\conv_nlayers=1_nfeatures=32\\model"
+all_model_checkpoint_paths: "../mnist_conv_models\\conv_nlayers=1_nfeatures=32\\model"
